@@ -1,0 +1,10 @@
+database:
+  mysql:
+    address: 127.0.0.1
+    username: root
+    password: lemon@123
+
+app:
+  user: admin
+  password: admin
+
